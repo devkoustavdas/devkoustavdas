@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I am'm Koustav Das</h1>
-<h3 align="center">An passionate engineer from India. Broadly speaking, Web Development and Data Analysis are two topics that grabs my interest.</h3>
+<h1 align="center">Hi there👋, I am Koustav Das</h1>
+<h3 align="center">A passionate engineer from India. Broadly speaking, Web Development and Data Analysis are two topics that grabs my interest.</h3>
 
 - 🔭 I’m currently working on **my Portfolio Website (using React JS, Vite, Firebase))**
 
